@@ -1,0 +1,16 @@
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/obj/Debug/net5.0/CalculateAvg.csproj.AssemblyReference.cache
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/obj/Debug/net5.0/CalculateAvg.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/obj/Debug/net5.0/CalculateAvg.AssemblyInfoInputs.cache
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/obj/Debug/net5.0/CalculateAvg.AssemblyInfo.cs
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/obj/Debug/net5.0/CalculateAvg.csproj.CoreCompileInputs.cache
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/bin/Debug/net5.0/CalculateAvg
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/bin/Debug/net5.0/CalculateAvg.deps.json
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/bin/Debug/net5.0/CalculateAvg.runtimeconfig.json
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/bin/Debug/net5.0/CalculateAvg.runtimeconfig.dev.json
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/bin/Debug/net5.0/CalculateAvg.dll
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/bin/Debug/net5.0/ref/CalculateAvg.dll
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/bin/Debug/net5.0/CalculateAvg.pdb
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/obj/Debug/net5.0/CalculateAvg.dll
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/obj/Debug/net5.0/ref/CalculateAvg.dll
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/obj/Debug/net5.0/CalculateAvg.pdb
+/home/hakai/projects/arq_soft/Activities/CalculateAvg/obj/Debug/net5.0/CalculateAvg.genruntimeconfig.cache

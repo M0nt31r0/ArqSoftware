@@ -1,0 +1,16 @@
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/obj/Debug/net5.0/ConvertDistance.csproj.AssemblyReference.cache
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/obj/Debug/net5.0/ConvertDistance.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/obj/Debug/net5.0/ConvertDistance.AssemblyInfoInputs.cache
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/obj/Debug/net5.0/ConvertDistance.AssemblyInfo.cs
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/obj/Debug/net5.0/ConvertDistance.csproj.CoreCompileInputs.cache
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/bin/Debug/net5.0/ConvertDistance
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/bin/Debug/net5.0/ConvertDistance.deps.json
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/bin/Debug/net5.0/ConvertDistance.runtimeconfig.json
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/bin/Debug/net5.0/ConvertDistance.runtimeconfig.dev.json
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/bin/Debug/net5.0/ConvertDistance.dll
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/bin/Debug/net5.0/ref/ConvertDistance.dll
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/bin/Debug/net5.0/ConvertDistance.pdb
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/obj/Debug/net5.0/ConvertDistance.dll
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/obj/Debug/net5.0/ref/ConvertDistance.dll
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/obj/Debug/net5.0/ConvertDistance.pdb
+/home/hakai/projects/arq_soft/Activities/ConvertDistance/obj/Debug/net5.0/ConvertDistance.genruntimeconfig.cache

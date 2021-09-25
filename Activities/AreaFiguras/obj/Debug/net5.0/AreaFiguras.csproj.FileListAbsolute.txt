@@ -1,0 +1,16 @@
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/obj/Debug/net5.0/AreaFiguras.csproj.AssemblyReference.cache
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/obj/Debug/net5.0/AreaFiguras.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/obj/Debug/net5.0/AreaFiguras.AssemblyInfoInputs.cache
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/obj/Debug/net5.0/AreaFiguras.AssemblyInfo.cs
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/obj/Debug/net5.0/AreaFiguras.csproj.CoreCompileInputs.cache
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/bin/Debug/net5.0/AreaFiguras
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/bin/Debug/net5.0/AreaFiguras.deps.json
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/bin/Debug/net5.0/AreaFiguras.runtimeconfig.json
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/bin/Debug/net5.0/AreaFiguras.runtimeconfig.dev.json
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/bin/Debug/net5.0/AreaFiguras.dll
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/bin/Debug/net5.0/ref/AreaFiguras.dll
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/bin/Debug/net5.0/AreaFiguras.pdb
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/obj/Debug/net5.0/AreaFiguras.dll
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/obj/Debug/net5.0/ref/AreaFiguras.dll
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/obj/Debug/net5.0/AreaFiguras.pdb
+/home/hakai/projects/arq_soft/Activities/AreaFiguras/obj/Debug/net5.0/AreaFiguras.genruntimeconfig.cache

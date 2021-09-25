@@ -1,0 +1,16 @@
+/home/hakai/projects/arq_soft/Activities/calculator/obj/Debug/net5.0/calculadora.csproj.AssemblyReference.cache
+/home/hakai/projects/arq_soft/Activities/calculator/obj/Debug/net5.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakai/projects/arq_soft/Activities/calculator/obj/Debug/net5.0/calculadora.AssemblyInfoInputs.cache
+/home/hakai/projects/arq_soft/Activities/calculator/obj/Debug/net5.0/calculadora.AssemblyInfo.cs
+/home/hakai/projects/arq_soft/Activities/calculator/obj/Debug/net5.0/calculadora.csproj.CoreCompileInputs.cache
+/home/hakai/projects/arq_soft/Activities/calculator/bin/Debug/net5.0/calculadora
+/home/hakai/projects/arq_soft/Activities/calculator/bin/Debug/net5.0/calculadora.deps.json
+/home/hakai/projects/arq_soft/Activities/calculator/bin/Debug/net5.0/calculadora.runtimeconfig.json
+/home/hakai/projects/arq_soft/Activities/calculator/bin/Debug/net5.0/calculadora.runtimeconfig.dev.json
+/home/hakai/projects/arq_soft/Activities/calculator/bin/Debug/net5.0/calculadora.dll
+/home/hakai/projects/arq_soft/Activities/calculator/bin/Debug/net5.0/ref/calculadora.dll
+/home/hakai/projects/arq_soft/Activities/calculator/bin/Debug/net5.0/calculadora.pdb
+/home/hakai/projects/arq_soft/Activities/calculator/obj/Debug/net5.0/calculadora.dll
+/home/hakai/projects/arq_soft/Activities/calculator/obj/Debug/net5.0/ref/calculadora.dll
+/home/hakai/projects/arq_soft/Activities/calculator/obj/Debug/net5.0/calculadora.pdb
+/home/hakai/projects/arq_soft/Activities/calculator/obj/Debug/net5.0/calculadora.genruntimeconfig.cache

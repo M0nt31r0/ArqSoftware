@@ -1,0 +1,16 @@
+/home/hakai/projects/arq_soft/Csharp/bin/Debug/net5.0/Csharp
+/home/hakai/projects/arq_soft/Csharp/bin/Debug/net5.0/Csharp.deps.json
+/home/hakai/projects/arq_soft/Csharp/bin/Debug/net5.0/Csharp.runtimeconfig.json
+/home/hakai/projects/arq_soft/Csharp/bin/Debug/net5.0/Csharp.runtimeconfig.dev.json
+/home/hakai/projects/arq_soft/Csharp/bin/Debug/net5.0/Csharp.dll
+/home/hakai/projects/arq_soft/Csharp/bin/Debug/net5.0/ref/Csharp.dll
+/home/hakai/projects/arq_soft/Csharp/bin/Debug/net5.0/Csharp.pdb
+/home/hakai/projects/arq_soft/Csharp/obj/Debug/net5.0/Csharp.csproj.AssemblyReference.cache
+/home/hakai/projects/arq_soft/Csharp/obj/Debug/net5.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakai/projects/arq_soft/Csharp/obj/Debug/net5.0/Csharp.AssemblyInfoInputs.cache
+/home/hakai/projects/arq_soft/Csharp/obj/Debug/net5.0/Csharp.AssemblyInfo.cs
+/home/hakai/projects/arq_soft/Csharp/obj/Debug/net5.0/Csharp.csproj.CoreCompileInputs.cache
+/home/hakai/projects/arq_soft/Csharp/obj/Debug/net5.0/Csharp.dll
+/home/hakai/projects/arq_soft/Csharp/obj/Debug/net5.0/ref/Csharp.dll
+/home/hakai/projects/arq_soft/Csharp/obj/Debug/net5.0/Csharp.pdb
+/home/hakai/projects/arq_soft/Csharp/obj/Debug/net5.0/Csharp.genruntimeconfig.cache
