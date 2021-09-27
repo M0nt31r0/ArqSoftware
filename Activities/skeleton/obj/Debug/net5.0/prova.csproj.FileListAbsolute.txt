@@ -1,0 +1,16 @@
+/home/hakai/projects/ArqSoftware/Activities/prova/obj/Debug/net5.0/prova.csproj.AssemblyReference.cache
+/home/hakai/projects/ArqSoftware/Activities/prova/obj/Debug/net5.0/prova.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakai/projects/ArqSoftware/Activities/prova/obj/Debug/net5.0/prova.AssemblyInfoInputs.cache
+/home/hakai/projects/ArqSoftware/Activities/prova/obj/Debug/net5.0/prova.AssemblyInfo.cs
+/home/hakai/projects/ArqSoftware/Activities/prova/obj/Debug/net5.0/prova.csproj.CoreCompileInputs.cache
+/home/hakai/projects/ArqSoftware/Activities/prova/bin/Debug/net5.0/prova
+/home/hakai/projects/ArqSoftware/Activities/prova/bin/Debug/net5.0/prova.deps.json
+/home/hakai/projects/ArqSoftware/Activities/prova/bin/Debug/net5.0/prova.runtimeconfig.json
+/home/hakai/projects/ArqSoftware/Activities/prova/bin/Debug/net5.0/prova.runtimeconfig.dev.json
+/home/hakai/projects/ArqSoftware/Activities/prova/bin/Debug/net5.0/prova.dll
+/home/hakai/projects/ArqSoftware/Activities/prova/bin/Debug/net5.0/ref/prova.dll
+/home/hakai/projects/ArqSoftware/Activities/prova/bin/Debug/net5.0/prova.pdb
+/home/hakai/projects/ArqSoftware/Activities/prova/obj/Debug/net5.0/prova.dll
+/home/hakai/projects/ArqSoftware/Activities/prova/obj/Debug/net5.0/ref/prova.dll
+/home/hakai/projects/ArqSoftware/Activities/prova/obj/Debug/net5.0/prova.pdb
+/home/hakai/projects/ArqSoftware/Activities/prova/obj/Debug/net5.0/prova.genruntimeconfig.cache
